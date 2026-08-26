@@ -2,7 +2,7 @@
 
 > An interactive, scroll-driven web experience that walks through the entire career of a Governance, Risk & Compliance (GRC) auditor — from the interview loop to the career ladder — across all three real-world tracks: in-house GRC analyst, internal audit / SOX (ITGC), and external audit (SOC 2 & ISO 27001).
 
-**Live demo:** _[add your published URL here]_
+**Live demo:** (https://github.com/kleckie7/grc-auditor-day-in-the-life)
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
